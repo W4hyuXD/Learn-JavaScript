@@ -1,2 +1,1 @@
-# Learn-JavaScript
-Progress 
+# Java Script
